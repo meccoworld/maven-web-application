@@ -96,13 +96,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>OPay Releases Nexus Repository</name>
-	      <url>http://79.125.60.107:8084/repository/Opay-Release/</url>
+	      <url>http://108.129.89.183:8084/repository/OPay-Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>OPay Snapshot Nexus Repository </name>
-	      <url>http://79.125.60.107:8084/repository/Opay-Snapshot/</url>
+	      <url>http://108.129.89.183:8084/repository/OPay-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
