@@ -10,7 +10,7 @@
 </head>
 <body>
 
-<marque style="background: #d00;"> <h1 align="center">Welcome to KTech Academy.</h1>	</marquee>
+<marquee style="background: #d00;"> <h1 align="center">Welcome to KTech Academy.</h1>	</marquee>
 
 <h1 align="center">We are developing and supporting quality  Software Solutions to millions of clients.
 We are raising over 1m millionaires by 2030.
